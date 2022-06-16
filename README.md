@@ -1,5 +1,23 @@
 # Team Profile Generator
 
+## Table of Contents
+
+- [Description](#description)
+- [Visuals](#visuals)
+- [Resources](#resources)
+
+## Description
+
+
+## Visuals
+
+![Team Profile Generator Screenshot](#)
+
+## Resources
+
+[Live Site](#)
+
+[Repository](#)
 
 <!-- Provided Instructions -->
 # 10 Object-Oriented Programming: Team Profile Generator
