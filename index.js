@@ -95,21 +95,18 @@ const addEmployee = () => {
             //takes in engineer specific data
             if(role === "Engineer") {
                 employee = new Engineer(name, id, email, github);
-
                 console.log(employee);
-
             } else 
             
             //takes in intern specific data
             if(role === "Intern") {
                 employee = new Intern(name, id, email, school);
-
                 console.log(employee);
             }
 
             teamArray.push(employee);
 
-            //pushes them to the top of the array
+            //pushes them to the bottom of the array
             if(confirmAddEmployee) return addEmployee(teamArray);
             else return teamArray;
         });
