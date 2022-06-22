@@ -1,5 +1,5 @@
 //import employee module
-const Employee = require('./employee.js');
+const Employee = require('./Employee');
 
 //intern class constructor
 class Intern extends Employee {
@@ -21,4 +21,4 @@ class Intern extends Employee {
 }
 
 // to be exported 
-module.exports = { Intern };
+module.exports = Intern;
