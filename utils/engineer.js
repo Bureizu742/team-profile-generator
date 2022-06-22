@@ -5,7 +5,7 @@ const Employee = require('./employee.js');
 class Engineer extends Employee {
     constructor(name, id, email, github) {
         super(name, id, email);
-        this.github = github; 
+        this.github = github;
     }
 
     //get github input 
@@ -20,4 +20,4 @@ class Engineer extends Employee {
 }
 
 // to be exported 
-module.exports = Engineer; 
+module.exports = { Engineer };
