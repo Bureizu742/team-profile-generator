@@ -7,17 +7,17 @@ class Employee {
     }
 
     //get name input
-    getName () {
+    getName() {
         return this.name;
     }
 
     //get id input
-    getId () {
+    getId() {
         return this.id;
     }   
 
     //get email input
-    getEmail () {
+    getEmail() {
         return this.email;
     }
 };
