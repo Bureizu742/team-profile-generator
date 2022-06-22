@@ -1,5 +1,5 @@
 //import employee module 
-const Employee = require('./Employee');
+const Employee = require('./employee.js');
 
 //manager class constructor 
 class Manager extends Employee {

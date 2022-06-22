@@ -15,8 +15,6 @@
 
 ## Resources
 
-[Live Site](#)
-
 [Repository](#)
 
 <!-- Provided Instructions -->
